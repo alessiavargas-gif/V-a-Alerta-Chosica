@@ -1,0 +1,7 @@
+via-alerta-chosica/
+├── backend/
+│   ├── app.py
+│   └── requirements.txt
+└── frontend/
+    ├── index.html
+    └── app.js
